@@ -1,0 +1,24 @@
+{
+  "name": "playwrightjs",
+  "version": "1.0.0",
+  "description": "Testes com o Playwright em JavaScript",
+  "main": "bot.js",
+  "dependencies": {
+    "playwright": "^1.14.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/K3yg/playwrightJs.git"
+  },
+  "author": "Eduardo Brandt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/K3yg/playwrightJs/issues"
+  },
+  "homepage": "https://github.com/K3yg/playwrightJs#readme"
+}
